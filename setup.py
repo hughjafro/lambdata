@@ -13,8 +13,8 @@ with open("Readme.md", "r") as fh:
     LONG_DESCRIPTION = fh.read()
 
 setuptools.setup(
-    name="lamdata-hughjafro",
-    version="0.0.2",
+    name="lambdata-hughjafro",
+    version="0.0.4",
     author="hughjafro",
     description="A collection of Data Science helper functions",
     long_description=LONG_DESCRIPTION,

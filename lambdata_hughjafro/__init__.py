@@ -5,5 +5,5 @@ import matplotlib.pyplot as plt
 
 VERSION = 0
 
-ONES = pd.ones(99)
+ONES = np.ones(99)
 
