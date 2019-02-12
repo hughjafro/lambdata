@@ -14,7 +14,7 @@ with open("Readme.md", "r") as fh:
 
 setuptools.setup(
     name="lamdata-hughjafro",
-    version="0.0.1",
+    version="0.0.2",
     author="hughjafro",
     description="A collection of Data Science helper functions",
     long_description=LONG_DESCRIPTION,
