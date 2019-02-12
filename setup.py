@@ -4,7 +4,7 @@
 
 import setuptools
 
-REQUIRE = [
+REQUIRED = [
     "numpy", 
     "pandas"
 ]
