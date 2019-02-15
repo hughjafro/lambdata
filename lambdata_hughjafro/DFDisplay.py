@@ -3,10 +3,12 @@
 The DFDispaly class is a useful display helper
 '''
 
-Class DFDispaly
+Class DFDispaly(object):
     def __init__(self)
     #Initialize the function
-    self.help()
+    self.randrange()
+    self.unlimited_columns()
+    self.unlimited_rows()
     
     def randrange(n, vmin, vmax):
         '''
